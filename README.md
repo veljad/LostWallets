@@ -8,6 +8,7 @@ See [**TABLE**](https://github.com/phrutis/LostWallets/blob/main/table.md) with 
 Download the latest version of hashcat [**here**](https://github.com/hashcat/hashcat/releases)</br>
 An example of using masks in hashcat is [**here**](https://cheatsheet.haax.fr/passcracking-hashfiles/hashcat_cheatsheet/)</br>
 The hashes of the passwords from all wallets is in the file [hash.txt](https://github.com/phrutis/LostWallets/blob/main/hash.txt)</br>
+Look for the password from all wallets at once, so you will be more likely to find</br>
 
 ## Example of starting a search
 TEST: ```hashcat.exe -m 11300 -a 3 test.txt foot?l?l?l?l -D 2 -w 3```</br>
@@ -87,17 +88,7 @@ New hashes may be added to the hash.txt file.</br>
 Or not relevant, doubtful ones will be deleted.</br>
 Therefore, update this file at home more often.<hr>
 
-**I want to look only for jacks with a large amount, so the speed will be higher.**</br>
-
-You can search as you feel is correct.</br>
-You can use at least one hash.</br>
-More chances with a bigger list.<hr>
-
 **Sell me all your wallets**</br>
 
 I don't sell or buy wallet.dat</br>
 And I do not advise you to buy.<hr>
-
-
-
-
