@@ -71,7 +71,7 @@ Perhaps you have found the password and want to get the wallet.dat you need to c
 You can contact me in telegram ```phrutis```</br>
 Provide me with the old wallet.dat</br>
 After verification, it will be added to the table with your btc address.</br>
-If hunters find papol you will get 25%<hr>
+If hunters find password you will get 25%<hr>
 
 **I have a wallet.dat with the same hex, there is a different amount, it's empty, it's a fake?**</br>
 
