@@ -44,7 +44,7 @@ They are not exact, come up with your own combinations<hr>
 **If I find. What are the guarantees of paying me 50% ?**</br>
 
 If you find the hash password.</br>
-Write to me in telegram @phrutis</br>
+Write to me in telegram ```phrutis```</br>
 After agreeing, and receiving your BTC address from you.</br>
 Sending coins to 3 addresses will be prepared.</br>
 Your address is 50% 1......</br>
