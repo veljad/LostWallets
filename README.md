@@ -1,5 +1,5 @@
 # Challenge LostWallets
-![mii](https://user-images.githubusercontent.com/82582647/170888552-9dbcbde8-8380-4d39-b761-22178e3cc67f.png)</br>
+![wallet.dat](https://user-images.githubusercontent.com/82582647/171958917-fc0260dd-1352-4179-ac38-ad8dd16fdeb4.png)</br>
 Find password get 50% balance</br></br>
 
 See [**TABLE**](https://github.com/phrutis/LostWallets/blob/main/table.md) with more than 150 wallets with amounts.
@@ -59,7 +59,7 @@ Check your address, enter your password and click send transfer.</br>
 So there will be a guarantee and security for all participants.</br>
 The characters are hidden in the input window.</br>
 An example of a screenshot of entering a password</br>
-![out](https://user-images.githubusercontent.com/82582647/171352391-5859c01c-8b91-4e8b-9664-1b1d75231d69.png)
+![pass](https://user-images.githubusercontent.com/82582647/171959020-8192f5ad-6d3c-4295-af77-8fe348769853.png)
 <hr>
 
 **I have a wallet.dat I would like to exchange with you.**</br>
