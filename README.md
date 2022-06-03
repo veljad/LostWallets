@@ -60,6 +60,7 @@ The characters are hidden in the input window.</br>
 An example of a screenshot of entering a password</br>
 ![out](https://user-images.githubusercontent.com/82582647/171352391-5859c01c-8b91-4e8b-9664-1b1d75231d69.png)
 <hr>
+
 **I have a wallet.dat I would like to exchange with you.**</br>
 
 Exchange according to the logic of the challenge is not possible.</br>
