@@ -2,7 +2,7 @@
 ![mii](https://user-images.githubusercontent.com/82582647/170888552-9dbcbde8-8380-4d39-b761-22178e3cc67f.png)</br>
 Find password get 50% balance</br></br>
 
-See [**TABLE**](https://github.com/phrutis/LostWallets/blob/main/hash.txt) with more than 150 wallets with amounts.
+See [**TABLE**](https://github.com/phrutis/LostWallets/blob/main/table.md) with more than 150 wallets with amounts.
 
 ## How to search for a password
 Download the latest version of hashcat [**here**](https://github.com/hashcat/hashcat/releases)</br>
