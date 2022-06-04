@@ -1,10 +1,10 @@
 In the process of updating!!!
 
 
-|    |  Wallet         | Balance BTC   | Status        | Your reward | Hunter address 25%    | Update          |
-|:---|:----------------|:--------------|:--------------|:------------|:----------------------|:----------------|
-| 1  | wallet_10000.dat| 10000.00198036| :lock:        | 50%  | 1NoName1LLKRfLmoh9jawLWrf6t185bC7v | 03.06.2022 |
-| 2  | 4000.000000.dat | 4000.00141000 | :lock:        | 50%  | bc1qphhedzu5jg7emtw09akwzzdh03mqaytett9zlz | 03.06.2022 |
+|    |  Wallet         | Balance BTC   | Your reward | Status | Hunter address 25%    | Update          |
+|:---|:----------------|:--------------|:------------|:-------|:----------------------|:----------------|
+| 1  | wallet_10000.dat| 10000.00198036| 50%         | :lock: | 1NoName1LLKRfLmoh9jawLWrf6t185bC7v | 03.06.2022 |
+| 2  | 4000.000000.dat | 4000.00141000 | 50%         | :lock: | bc1qphhedzu5jg7emtw09akwzzdh03mqaytett9zlz | 03.06.2022 |
 | 3  |  |  |  |  |  |  |
 | 4  |  |  |  |  |  |  |
 | 5  |  |  |  |  |  |  |
