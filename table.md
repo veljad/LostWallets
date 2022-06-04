@@ -1,8 +1,8 @@
 ### Partner addresses 25%
-1 - 1NEFQpE4qETrAtzzRD8vLGs8FRZmUsV6FF</br>
-2 - bc1qphhedzu5jg7emtw09akwzzdh03mqaytett9zlz</br>
-3 - 1NoName1LLKRfLmoh9jawLWrf6t185bC7v</br>
-4 - bc1qh2mvnf5fujg93mwl8pe688yucaw9sflmwsukz9</br>
+:one: - 1NEFQpE4qETrAtzzRD8vLGs8FRZmUsV6FF</br>
+:two: - bc1qphhedzu5jg7emtw09akwzzdh03mqaytett9zlz</br>
+:three: - 1NoName1LLKRfLmoh9jawLWrf6t185bC7v</br>
+:four: - bc1qh2mvnf5fujg93mwl8pe688yucaw9sflmwsukz9</br>
 
 |   |  Wallet         | Balance BTC   | Address     | Reward | Status | Partner | Update          |
 |:--|:----------------|:--------------|:------------|:-------|:-------|:--------|:----------------|
@@ -162,7 +162,7 @@
 | 154 | 405.00120319.dat |  |  | 50% | :lock: | 1 | 00.00.2022 |
 | 155 | 2612.0000000.dat |  |  | 50% | :lock: | 1 | 00.00.2022 |
 | 156 | 4000.0000000.dat |  |  | 50% | :lock: | 1 | 00.00.2022 |
-| 157 | 5000.01168565.dat |  |  | 50% | :lock: | 1 | 00.00.2022 |
+| 157 | 5000.01168565.dat | 5000.01168565 | [18xGHNrU26w6HSCEL8DD5o1whfiDaYgp6i](https://www.blockchain.com/btc/address/18xGHNrU26w6HSCEL8DD5o1whfiDaYgp6i) | 50% | :lock: | 1 | 04.06.2022 |
 | 158 | wallet_108.06.dat |  |  | 50% | :lock: | 3 | 00.00.2022 |
 | 159 | wallet_110.dat |  |  | 50% | :lock: | 3 | 00.00.2022 |
 
