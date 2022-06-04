@@ -19,6 +19,7 @@ Use your password search prefixes by mask or [dictionaries](https://www.weakpass
 If you manage to find the passwoed, write to me in telegram ```phrutis```</br>
 Do not write me questions, look for answers on the [forum](https://hashcat.net/forum/)</br>
 
+[**Frequently asked Questions**](https://github.com/phrutis/LostWallets#frequently-asked-questions)
 
 ### Partner addresses 25%
 :one: - 1NEFQpE4qETrAtzzRD8vLGs8FRZmUsV6FF</br>
@@ -191,8 +192,8 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 
 ## Heshes table
 
-|    | Wallet password hash |
-|:---|:----------------|
+|    | :arrow_up: Wallet password hash by numbers from the table above :arrow_up: |
+|:---|:----------------------------------------------------------------------------------------|
 | 1 | $bitcoin$64$f0ef639cd01bb26805c190e0aeba006fbdd6b817e0b6634b0fb11944bc0f19eb$16$d2542bb38e0ee061$76753$2$00$2$00 |
 | 2 | $bitcoin$64$ff4eb1d017921e0c7023da7e17aa72bd5f11f9025c844865665932125f79f465$16$6b8207637fc796a0$37698$2$00$2$00 |  
 | 3 | $bitcoin$64$234bcceda74df69c8107ea28cb7dda04753a8bab324bfdb175d5552558c689c1$16$599c639c12d31797$70564$2$00$2$00 |
