@@ -1,6 +1,6 @@
 # Challenge LostWallets
-![wallet.dat](https://user-images.githubusercontent.com/82582647/172037651-a03c947c-e51e-4259-80c1-42588bf6d9b7.png)
-Find password get 50% balance</br></br>
+![wallet.dat](https://user-images.githubusercontent.com/82582647/172037651-a03c947c-e51e-4259-80c1-42588bf6d9b7.png)</br>
+**Find password get 50% balance**</br>
 
 ## How to search for a password
 Download the latest version of hashcat [**here**](https://github.com/hashcat/hashcat/releases)</br>
