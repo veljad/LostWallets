@@ -66,7 +66,7 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 35 | new3wallet.dat | ? |  | 50% | :lock: | 3 | 00.00.2022 |
 | 36 | new2wallet.dat | ? |  | 50% | :lock: | 3 | 00.00.2022 |
 | 37 | new1wallet.dat | 0.00031091? | [12Mnc41fYtFkSir5RCHYv82cq8FMuYHmm5](https://www.blockchain.com/btc/address/12Mnc41fYtFkSir5RCHYv82cq8FMuYHmm5) | 50% | :lock: | 3 | 00.00.2022 |
-| 38 | 36.83wallet.dat | -36.83 | [1NuNHWG4Ujs9wjH9wciVEoJCsgXmn6PfX9](https://www.blockchain.com/btc/address/1NuNHWG4Ujs9wjH9wciVEoJCsgXmn6PfX9) | 50% | :lock: | 3 | 00.00.2022 |
+| 38 | FREE |  |  | 50% | :lock: | 0 | 00.00.2022 |
 | 39 | 30.0.dat | 30.99098222 | [18jANvQ6AuVGJnea4EhmXiAf6bHR5qKjPB](https://www.blockchain.com/btc/address/18jANvQ6AuVGJnea4EhmXiAf6bHR5qKjPB) | 50% | :lock: | 3 | 00.00.2022 |
 | 40 | 15.99.dat | 15.99100158 | [12ie6iDXeyBcyjSgdrs8Jo5eUbHg4r2N7Q](https://www.blockchain.com/btc/address/12ie6iDXeyBcyjSgdrs8Jo5eUbHg4r2N7Q) | 50% | :lock: | 3 | 00.00.2022 |
 | 41 | 8.5.dat | 8.50023481 | [1KDUcZh5Z6H1of4Pwoy5ojJtkQxcQBHhnH](https://www.blockchain.com/btc/address/1KDUcZh5Z6H1of4Pwoy5ojJtkQxcQBHhnH) | 50% | :lock: | 3 | 00.00.2022 |
@@ -183,7 +183,7 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 152 | 319.00053581.dat | 319.00053581 | [1FJBeYLRArReqVTiqwYTEc9hAfypGx8MyN](https://www.blockchain.com/btc/address/1FJBeYLRArReqVTiqwYTEc9hAfypGx8MyN) | 50% | :lock: | 1 | 00.00.2022 |
 | 153 | 340.00283740.dat | 340.00210710 | [1JqPFnGPhHhy54zJKmC1MPiczzgFjCmzE9](https://www.blockchain.com/btc/address/1JqPFnGPhHhy54zJKmC1MPiczzgFjCmzE9) | 50% | :lock: | 1 | 05.06.2022 |
 | 154 | 405.00120319.dat |405.00120319  | [1An4jHFsSz31TjW49vsZtCt2SXKV7oHRWb](https://www.blockchain.com/btc/address/1An4jHFsSz31TjW49vsZtCt2SXKV7oHRWb) | 50% | :lock: | 1 | 00.00.2022 |
-| 155 | 2612.0000000.dat | -2612 | [1E38XQRdXVhafXoAXwSZyoxPQ7R5HtmfrW](https://www.blockchain.com/btc/address/1E38XQRdXVhafXoAXwSZyoxPQ7R5HtmfrW) | 00% | :no_entry: | - | 21.02.2022 |
+| 155 | FREE |  |  | 50% | :lock: | 0 | 21.02.2022 |
 | 156 | 4000.0000000.dat | 4000.00222015 | [18eY9oWL2mkXCL1VVwPme2NMmAVhX6EfyM](https://www.blockchain.com/btc/address/18eY9oWL2mkXCL1VVwPme2NMmAVhX6EfyM) | 50% | :lock: | 1 | 00.00.2022 |
 | 157 | 5000.01168565.dat | 5000.01168565 | [18xGHNrU26w6HSCEL8DD5o1whfiDaYgp6i](https://www.blockchain.com/btc/address/18xGHNrU26w6HSCEL8DD5o1whfiDaYgp6i) | 50% | :lock: | 1 | 04.06.2022 |
 | 158 | wallet_108.06.dat | 108.06001094 | [1G3hJ3CJdovXiTyK1AWQpTevW1hHCQ7jsM](https://www.blockchain.com/btc/address/1G3hJ3CJdovXiTyK1AWQpTevW1hHCQ7jsM) | 50% | :lock: | 3 | 00.00.2022 |
@@ -231,7 +231,7 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 35 | $bitcoin$64$dede82c6449d5e1638a8e3a26db5c8e73368d139ff7d6fb7b9fc1ce82120f35c$16$fc83158ec483e01a$216173$2$00$2$00 |
 | 36 | $bitcoin$64$f6f42a9e0cb0eda2669fa8fb6e8a69ab42c753165427559c4828637f1142fef1$16$4f4624841b9317e4$191354$2$00$2$00 |
 | 37 | $bitcoin$64$7f9cfa79f17275c95dc0876283de90f287aece404c1fd11115c059b3d88fd386$16$f328cdce4388a454$105603$2$00$2$00 |
-| 38 | $bitcoin$64$5b2f6e4398004a207eea181b9db111971ab9749c19451a5f0926d1000d70b682$16$d72f084441487b68$25000$2$00$2$00 |
+| 38 | FREE |
 | 39 | $bitcoin$64$50bb9ef9cad87bf2b865b060e80c72c52f5ff496dbefa0bcfc6c3b5e0b86050e$16$f63cb4696e604d94$128289$2$00$2$00 |
 | 40 | $bitcoin$64$2ecb6691460c19de44584d2b22d201597874ec4ced76c806455e079e6d811da8$16$fbf192d3baf6bb02$126145$2$00$2$00 |
 | 41 | $bitcoin$64$ff134f9f03da571e5b256dec561730aaa674ff37d8a698d3c2c5e66fdbb07335$16$125d64b2bab4c437$136217$2$00$2$00 |
@@ -348,7 +348,7 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 152 | $bitcoin$64$3e9bcabc966d7870f4ac263a2cb1efc2400644a917113c772375e588ecead5b1$16$18beed5b1565a5e5$47871$2$00$2$00 |
 | 153 | $bitcoin$64$173aabf5927d86a1f9c34a59d9cd708c9d62fc181a90cf0f1b63e4b459981ac2$16$1d372be16c465eb6$131578$2$00$2$00 |
 | 154 | $bitcoin$64$b56f1b90d107ee7e09e5f2ff6a430dbde219e17dfae7041b7b8eec3623b1a8ed$16$96846cdf25ec9168$36571$2$00$2$00 |
-| :no_entry: | $bitcoin$64$cf855f694ea9768a421ea1c46d47cf2ca07c8a5003fa6b338dfa12d9d55b229a$16$ad22f110e67113a4$37698$2$00$2$00 |
+| 155 | FREE |
 | 156 | $bitcoin$64$71e2e716521853a705f989b6095792e134a65d3c7dba4a2ef9e4b7b2a1b3b5c9$16$ad323db3a8d1a222$92592$2$00$2$00 |
 | 157 | $bitcoin$64$ad50c8d3435f8f711f384090a3df9112e0b84a0c97f727b3bbbdc28865d8d7b3$16$f193886b9f6d9853$37480$2$00$2$00 |
 | 158 | $bitcoin$64$3e04675fd0e35dfee9ffb5cd55bed9903137b9f049406be43d04069c2fe96e9f$16$2aabeaeb7f4a1041$132242$2$00$2$00 |
