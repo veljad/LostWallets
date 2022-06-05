@@ -70,7 +70,7 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 39 | 30.0.dat | 30.99098222 | [18jANvQ6AuVGJnea4EhmXiAf6bHR5qKjPB](https://www.blockchain.com/btc/address/18jANvQ6AuVGJnea4EhmXiAf6bHR5qKjPB) | 50% | :lock: | 3 | 00.00.2022 |
 | 40 | 15.99.dat | 15.99100158 | [12ie6iDXeyBcyjSgdrs8Jo5eUbHg4r2N7Q](https://www.blockchain.com/btc/address/12ie6iDXeyBcyjSgdrs8Jo5eUbHg4r2N7Q) | 50% | :lock: | 3 | 00.00.2022 |
 | 41 | 8.5.dat | 8.50023481 | [1KDUcZh5Z6H1of4Pwoy5ojJtkQxcQBHhnH](https://www.blockchain.com/btc/address/1KDUcZh5Z6H1of4Pwoy5ojJtkQxcQBHhnH) | 50% | :lock: | 3 | 00.00.2022 |
-| 42 | 4.3.dat | ? |  | 50% | :lock: | 3 | 00.00.2022 |
+| 42 | FREE |  |  | 50% | :lock: | 0 | 00.00.2022 |
 | 43 | 32.2.dat |  |  | 50% | :lock: | 3 | 00.00.2022 |
 | 44 | 1.08.dat | 1.08795916 | [1F654t1HxrZtg7uhcXyZeFvRsyB8HCnBXJ](https://www.blockchain.com/btc/address/1F654t1HxrZtg7uhcXyZeFvRsyB8HCnBXJ) | 50% | :lock: | 3 | 00.00.2022 |
 | 45 | 1.004wallet.dat | 0.00000580 | [17bqkPW21QhRUBcUQiy3C99ZC6L52Utu1b](https://www.blockchain.com/btc/address/17bqkPW21QhRUBcUQiy3C99ZC6L52Utu1b) | 50% | :lock: | 3 | 00.00.2022 |
@@ -235,7 +235,7 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 39 | $bitcoin$64$50bb9ef9cad87bf2b865b060e80c72c52f5ff496dbefa0bcfc6c3b5e0b86050e$16$f63cb4696e604d94$128289$2$00$2$00 |
 | 40 | $bitcoin$64$2ecb6691460c19de44584d2b22d201597874ec4ced76c806455e079e6d811da8$16$fbf192d3baf6bb02$126145$2$00$2$00 |
 | 41 | $bitcoin$64$ff134f9f03da571e5b256dec561730aaa674ff37d8a698d3c2c5e66fdbb07335$16$125d64b2bab4c437$136217$2$00$2$00 |
-| 42 | $bitcoin$64$958ac143fee6e57e819669853da15bc41da8881b3b99d50d26bfa4fa118661ee$16$b6db137df5385a14$59688$2$00$2$00 |
+| 42 | FREE |
 | 43 | $bitcoin$64$8ff0c52d3026ac8b949fdc64444d4daecbde19f8bfb3fb4b3e199fdb5aff8339$16$b5ba03e404f1d79d$125631$2$00$2$00 |
 | 44 | $bitcoin$64$9de529051d808b5d34c679c43020a233e6b5161de2e85070127009d61e4c24c8$16$09792b4786f368cb$49019$2$00$2$00 |
 | 45 | $bitcoin$64$9269f788d7bcecd411d95cc222c9f0cdf7ebfc6fa33847607f7b8c1338a2c3f8$16$10cb87989a39ef71$60692$2$00$2$00 |
