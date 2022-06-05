@@ -32,11 +32,11 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 1  | wallet_10000.dat| 10000.00417651| [1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK](https://www.blockchain.com/btc/address/1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK) | 50%         | :lock: | 3 | 04.06.2022 |
 | 2  | 4000.000000.dat | 4000.00222015 | [18eY9oWL2mkXCL1VVwPme2NMmAVhX6EfyM](https://www.blockchain.com/btc/address/18eY9oWL2mkXCL1VVwPme2NMmAVhX6EfyM) | 50%        | :lock: | 2 | 03.06.2022 |
 | 3  | 0.00120762.dat | 0.00122539 | [15KeSdnNDVrCQ62TGFRNEx3xedKwXMpvn5](https://www.blockchain.com/btc/address/15KeSdnNDVrCQ62TGFRNEx3xedKwXMpvn5) | 50% | :lock: | 1 | 04.06.2022 |
-| 4  | wallet005.dat |  |  | 50% | :lock: | 4 | 00.00.2022 |
+| 4  | FREE |  |  | 50% | :lock: | 0 | 00.00.2022 |
 | 5  | wallet_2.97.dat | 2.97000000 | [18cC6RJjYq5vxPAPmMA1KfszMzRr5FohLW](https://www.blockchain.com/btc/address/18cC6RJjYq5vxPAPmMA1KfszMzRr5FohLW) | 50% | :lock: | 3 | 00.00.2022 |
 | 6  | wallet_10.83.dat | 10.83091000 | [1MB28otoAQFpP9ywiA8CbYVSKHpSTBH1z6](https://www.blockchain.com/btc/address/1MB28otoAQFpP9ywiA8CbYVSKHpSTBH1z6) | 50% | :lock: | 3 | 00.00.2022 |
 | 7  | wallet_3.88.dat | 3.88501921 | [1DGNFJ6i4wvTAafLNux67w598bKREF5LwY](https://www.blockchain.com/btc/address/1DGNFJ6i4wvTAafLNux67w598bKREF5LwY) | 50% | :lock: | 3 | 00.00.2022 |
-| 8  | wallet005.dat |  |  | 50% | :lock: | 3 | 00.00.2022 |
+| 8  | FREE |  |  | 50% | :lock: | 0 | 00.00.2022 |
 | 9  | wallet_3.98.dat | 3.98999976 | [179ubgmB4sTRQSutRMovStFoAHxfoVnDK5](https://www.blockchain.com/btc/address/179ubgmB4sTRQSutRMovStFoAHxfoVnDK5) | 50% | :lock: | 3 | 00.00.2022 |
 | 10 | wallet_4.381.dat | 4.38100000 | [1CQyjZ8Rptd9YnZW7rX87rmni8HAPfwRgh](https://www.blockchain.com/btc/address/1CQyjZ8Rptd9YnZW7rX87rmni8HAPfwRgh) | 50% | :lock: | 3 | 00.00.2022 |
 | 11 | wallet_10.502.dat | 10.50200000 | [14PEUoKuRB9Q7yfS94cRXh2XugsrBxbxAo](https://www.blockchain.com/btc/address/14PEUoKuRB9Q7yfS94cRXh2XugsrBxbxAo) | 50% | :lock: | 3 | 00.00.2022 |
@@ -197,11 +197,11 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 1 | $bitcoin$64$f0ef639cd01bb26805c190e0aeba006fbdd6b817e0b6634b0fb11944bc0f19eb$16$d2542bb38e0ee061$76753$2$00$2$00 |
 | 2 | $bitcoin$64$ff4eb1d017921e0c7023da7e17aa72bd5f11f9025c844865665932125f79f465$16$6b8207637fc796a0$37698$2$00$2$00 |  
 | 3 | $bitcoin$64$234bcceda74df69c8107ea28cb7dda04753a8bab324bfdb175d5552558c689c1$16$599c639c12d31797$70564$2$00$2$00 |
-| 4 | $bitcoin$64$c14f56ad41053634a95dfb4d7099c5f0d7b291a7d205ea8f489fb43c023dc6c9$16$d4e4996b4e149a40$158666$2$00$2$00 |
+| 4 |  |
 | 5 | $bitcoin$64$5188754f6b4942270d8f1dcaa8b1658b5e82fac953a7394dd8a5d0cf622ae70f$16$6cf03da04dc5b899$72580$2$00$2$00 |
 | 6 | $bitcoin$64$6942834a1cdda69705d2cf9ebc3a204d5bfa64ff40d81db0bac6ccf63b3aff8f$16$00aa7d8b96e6174d$37698$2$00$2$00 |
 | 7 | $bitcoin$64$226093b84d6c3d0eeeb96e3ccece44068769410cb5968b16430a0d1158a6d071$16$4c9e8811f730201c$37698$2$00$2$00 |
-| 8 | $bitcoin$64$c14f56ad41053634a95dfb4d7099c5f0d7b291a7d205ea8f489fb43c023dc6c9$16$d4e4996b4e149a40$158666$2$00$2$00 |
+| 8 |  |
 | 9 | $bitcoin$64$71fe0d4dc27b24dcd1ea6639d644e8daeff04c38e30d05f0a74b17d28f25667e$16$df6cabc03425d39a$35714$2$00$2$00 |
 | 10 | $bitcoin$64$0e7f3dd3368aa563848291d14059ca6b969fdc6567be670d93f982693c4a913b$16$df1b66a2e41c2eb3$35714$2$00$2$00 |
 | 11 | $bitcoin$64$93112f8c11e9cbff7561038eddf268827dd38c72354695fc70d4a01102d22c48$16$14bff2455913f62c$25000$2$00$2$00 |
