@@ -5,7 +5,7 @@
 ## How to search for a password
 Download the latest version of hashcat [**here**](https://github.com/hashcat/hashcat/releases)</br>
 An example of using masks in hashcat is [**here**](https://cheatsheet.haax.fr/passcracking-hashfiles/hashcat_cheatsheet/)</br>
-The hashes of the passwords from all wallets is in the file [hash.txt](https://github.com/phrutis/LostWallets/blob/main/hash.txt) (Update 06.06.2022)</br>
+The hashes of the passwords from all wallets is in the file [hash.txt](https://github.com/phrutis/LostWallets/blob/main/hash.txt) Update 07.06.2022</br>
 Look for the password from all wallets at once, so you will be more likely to find</br>
 
 ## Example of starting a search
@@ -205,7 +205,7 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 174 | wallet0.29J.dat | 0.29957903 | [1Fd4kGGuBwxH2QZe6cTS5GATXQeFBMmxKJ](https://www.blockchain.com/btc/address/1Fd4kGGuBwxH2QZe6cTS5GATXQeFBMmxKJ) | 50% | :lock: | 4 | 06.06.2022 |
 | 175 | wallet2.0J.dat | 2.05423471 | [13TTA7LS3fvCRtUytEmW1HZwzY3kaahDqU](https://www.blockchain.com/btc/address/13TTA7LS3fvCRtUytEmW1HZwzY3kaahDqU) | 50% | :lock: | 4 | 06.06.2022 |
 | 176 | wallet5.86J.dat | 5.86332001 | [16M7J5ThnZ8TdoTzyS9nrY1c9V7gjjxmbt](https://www.blockchain.com/btc/address/16M7J5ThnZ8TdoTzyS9nrY1c9V7gjjxmbt) | 50% | :lock: | 4 | 06.06.2022 |
-| 177 | m104.dat | 104 | [15wx2WPf67P9AqrMUPzcePzzDFa7pJmhud](https://www.blockchain.com/btc/address/15wx2WPf67P9AqrMUPzcePzzDFa7pJmhud) + [1](https://www.blockchain.com/btc/address/1GtR4VXdRNMqnABAiAgGYnB4yQyWZ2ZTWk) | 50% | :lock: | 0 | 06.06.2022 |
+| 177 | m104.dat | 104 | [15wx2WPf67P9AqrMUPzcePzzDFa7pJmhud](https://www.blockchain.com/btc/address/15wx2WPf67P9AqrMUPzcePzzDFa7pJmhud) + [1](https://www.blockchain.com/btc/address/1GtR4VXdRNMqnABAiAgGYnB4yQyWZ2ZTWk) | 50% | :lock: | 1 | 06.06.2022 |
 | 178 | m2.4.dat | 2.40000000 | [1AFuqjnZSveYPpaAQqH6VRssxSF9YjRxaz](https://www.blockchain.com/btc/address/1AFuqjnZSveYPpaAQqH6VRssxSF9YjRxaz) | 50% | :lock: | 1 | 06.06.2022 |
 | 179 | m0.02.dat | 0.02994543 | [1JsUStZoy9aHqFkH3Gqpz4RQFCFqyhk5W7](https://www.blockchain.com/btc/address/1JsUStZoy9aHqFkH3Gqpz4RQFCFqyhk5W7) | 50% | :lock: | 1 | 06.06.2022 |
 | 180 | m6.dat | 6.00000000 | [1L1iJNKBubV4KbScgKTYS85gjvBmoDpzST](https://www.blockchain.com/btc/address/1L1iJNKBubV4KbScgKTYS85gjvBmoDpzST) | 50% | :lock: | 1 | 06.06.2022 |
