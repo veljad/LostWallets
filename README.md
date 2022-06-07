@@ -19,7 +19,8 @@ Use your password search prefixes by mask or [dictionaries](https://www.weakpass
 If you manage to find the passwoed, write to me in telegram ```phrutis```</br>
 Do not write me questions, look for answers on the [forum](https://hashcat.net/forum/)</br>
 
-[**Frequently asked Questions**](https://github.com/phrutis/LostWallets#frequently-asked-questions)
+- [**Fake Wallets**](https://github.com/phrutis/LostWallets/tree/main/fake-wallets)</br>
+- [**Frequently asked Questions**](https://github.com/phrutis/LostWallets#frequently-asked-questions)
 
 ### Partner addresses 25%
 :one: - 1NEFQpE4qETrAtzzRD8vLGs8FRZmUsV6FF</br>
@@ -27,8 +28,8 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 :three: - 1NoName1LLKRfLmoh9jawLWrf6t185bC7v</br>
 :four: - bc1q5k000jhfklq8k82lpf8fz9cwffj4murvt7kxpm
 
-|    |  Wallet name    | Balance BTC   | Address     | Your reward | Status | Partner | Update          |
-|:---|:----------------|:--------------|:------------|:------------|:-------|:--------|:----------------|
+|    |  Wallet name    | Balance BTC   | Address     | Your reward |  | Partner | Update          |
+|:---|:----------------|:--------------|:------------|:------------|:-|:--------|:----------------|
 | 1  | wallet_10000.dat| 10000.00417651| [1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK](https://www.blockchain.com/btc/address/1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK) | 50%         | :lock: | 3 | 04.06.2022 |
 | 2  | 4000.000000.dat | 4000.00222015 | [18eY9oWL2mkXCL1VVwPme2NMmAVhX6EfyM](https://www.blockchain.com/btc/address/18eY9oWL2mkXCL1VVwPme2NMmAVhX6EfyM) | 50%        | :lock: | 2 | 03.06.2022 |
 | 3  | 0.00120762.dat | 0.00122539 | [15KeSdnNDVrCQ62TGFRNEx3xedKwXMpvn5](https://www.blockchain.com/btc/address/15KeSdnNDVrCQ62TGFRNEx3xedKwXMpvn5) | 50% | :lock: | 1 | 04.06.2022 |
@@ -129,7 +130,7 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 98 | 6.33718357.dat | 6.33718357 | [18fH6tk7KG998cSKXTg7v3wqLHuVu7es4i](https://www.blockchain.com/btc/address/18fH6tk7KG998cSKXTg7v3wqLHuVu7es4i) | 50% | :lock: | 1 | 05.06.2022 |
 | 99 | 7.00000000.dat | 7.00000000 | [1MsbUGxbcW1zKvTbNq86rvteu6zm7h7Nfw](https://www.blockchain.com/btc/address/1MsbUGxbcW1zKvTbNq86rvteu6zm7h7Nfw) | 50% | :lock: | 1 | 05.06.2022 |
 | 100 | 8.77089137.dat | 8.77089137 | [16Na4QHvS2rEP23igjKYfgoPqUYtZvzB5d](https://www.blockchain.com/btc/address/16Na4QHvS2rEP23igjKYfgoPqUYtZvzB5d) | 50% | :lock: | 1 | 05.06.2022 |
-| 101 | 11.26827053.dat(fake) | 11.26827053 | [1NibfhHfgA857dtG6pB25Y5hDcxpDo2J47](https://www.blockchain.com/btc/address/1NibfhHfgA857dtG6pB25Y5hDcxpDo2J47) | 50% | :lock: | 1 | 05.06.2022 |
+| 101 | m4.3.dat | 4.36000000 | [18Sb5pxmK7HNwG9dUrZhzzcAoX1n8FEUBu](https://www.blockchain.com/btc/address/18Sb5pxmK7HNwG9dUrZhzzcAoX1n8FEUBu) | 50% | :lock: | 1 | 06.06.2022 |
 | 102 | 12.82192064.dat | 12.82192064 | [19tLSCZWhX5YBVy6uX2kLheNjdUb9RBojS](https://www.blockchain.com/btc/address/19tLSCZWhX5YBVy6uX2kLheNjdUb9RBojS) | 50% | :lock: | 1 | 05.06.2022 |
 | 103 | 13.47094589.dat | 13.47094589 | [1DphS33aWDZBWNEh3rPJFfD6GFP1mmgerU](https://www.blockchain.com/btc/address/1DphS33aWDZBWNEh3rPJFfD6GFP1mmgerU) | 50% | :lock: | 1 | 05.06.2022 |
 | 104 | 13.76858117.dat | 13.76858117 | [1LmdsdywkMNqgXg7x7q88NT2WeXXf52co3](https://www.blockchain.com/btc/address/1LmdsdywkMNqgXg7x7q88NT2WeXXf52co3) | 50% | :lock: | 1 | 05.06.2022 |
@@ -210,7 +211,7 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 179 | m6.dat | 6.00000000 | [1L1iJNKBubV4KbScgKTYS85gjvBmoDpzST](https://www.blockchain.com/btc/address/1L1iJNKBubV4KbScgKTYS85gjvBmoDpzST) | 50% | :lock: | 1 | 06.06.2022 |
 | 180 | m1.4.dat | 1.44124101 | [1Lc6RJEB99cXMRBnkuTZqqojv6pRjikCkA](https://www.blockchain.com/btc/address/1Lc6RJEB99cXMRBnkuTZqqojv6pRjikCkA) | 50% | :lock: | 1 | 06.06.2022 |
 | 181 | m8.7.dat | 8.77089137 | [16Na4QHvS2rEP23igjKYfgoPqUYtZvzB5d](https://www.blockchain.com/btc/address/16Na4QHvS2rEP23igjKYfgoPqUYtZvzB5d) | 50% | :lock: | 1 | 06.06.2022 |
-| 182 | m4.3.dat | 4.36000000 | [18Sb5pxmK7HNwG9dUrZhzzcAoX1n8FEUBu](https://www.blockchain.com/btc/address/18Sb5pxmK7HNwG9dUrZhzzcAoX1n8FEUBu) | 50% | :lock: | 1 | 06.06.2022 |
+
 
 
 
@@ -318,7 +319,7 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 98 | $bitcoin$64$829c1c500a6b80ce0f6a622bf77d9ad75fc07abe2753695e8c256bdd5e5ad872$16$e88c5fd7136eb715$52082$2$00$2$00 |
 | 99 | $bitcoin$64$f20759bb3249e7f1928373981c4efb014d45b632ed8a3c781f061b92d095888b$16$3ff48fe3e092513b$111555$2$00$2$00 |
 | 100 | $bitcoin$64$ef08500b11fda51111e9106ab0bc60fb77870202a7a433abe1dda820be9134f6$16$a962fdb86e3161a4$60692$2$00$2$00 |
-| 101 | $bitcoin$64$6b45588e745d8490f2432c68533407e0f2040ff12debd840270f47543ad47c16$16$0af493ab2796f208$99974$2$00$2$00 |
+| 101 | $bitcoin$64$4e5275fdaa62b805f8866082a87d953cca0c11e8e9d6511ab8a88690e107cd6d$16$802b35126a909e0f$81065$2$00$2$00 |
 | 102 | $bitcoin$64$b111269df559c2c8929f4e7d82bd627317301d9fdd189b5360153ab28f7d04a0$16$cf488450374c34d5$35714$2$00$2$00 |
 | 103 | $bitcoin$64$a056da8f6713a70d9f6b125931ac02a3b89f3aed658ab444b624c740d08460d2$16$ded7ea15fc0ad57c$53205$2$00$2$00 |
 | 104 | $bitcoin$64$c4904a4e27e374a782aa9700bc953bea61dc0342f8df97491d229fc6bcd5c641$16$25b711ed92cdf3c3$74899$2$00$2$00 |
@@ -399,7 +400,7 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 179 | $bitcoin$64$cbd7fe1739ba5dbf965fa015bc4cb089649a56a9a0002b74ac0c1076bf81de40$16$2090fd216ae96fee$61090$2$00$2$00 |
 | 180 | $bitcoin$64$af049ff75a8d5c1214e252f3c926b7b63e20f78f07fd411ca04140f272e557ae$16$999bf4729b971c7e$67169$2$00$2$00 |
 | 181 | $bitcoin$64$ef08500b11fda51111e9106ab0bc60fb77870202a7a433abe1dda820be9134f6$16$a962fdb86e3161a4$60692$2$00$2$00 |
-| 182 | $bitcoin$64$4e5275fdaa62b805f8866082a87d953cca0c11e8e9d6511ab8a88690e107cd6d$16$802b35126a909e0f$81065$2$00$2$00 |
+
 
 
 ## Frequently asked Questions
