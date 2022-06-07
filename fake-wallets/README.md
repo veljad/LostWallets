@@ -3,7 +3,7 @@
 **Wallets are checked in detail, but fakes also occur.**</br>
 ### Table of fake wallet.dat</br>
 
-|    |  Wallet name    | Balance BTC   | Address     | Status | Password|
+|    |  Wallet name    | Balance BTC   | Address     |  | Password|
 |:---|:----------------|:--------------|:------------|:-------|:--------|
 | 1  | 11.26827053.dat | 11.26827053   | [1NibfhHfgA857dtG6pB25Y5hDcxpDo2J47](https://www.blockchain.com/btc/address/1NibfhHfgA857dtG6pB25Y5hDcxpDo2J47) | :lock: | 12aVP18cd5XsbcGQy8u6eywQ6UuA6Q319s |
 
