@@ -478,3 +478,15 @@ And I do not advise you to buy.<hr>
 
 Indexing each wallet requires 5 to 8 hours.</br>
 It also takes a lot of time to check the jack.<hr>
+
+**I have password hints, why don't you use them?**</br>
+
+You are looking for more than 150 wallets in the list at once.</br>
+Hints are irrelevant here.<hr>
+
+**Why is there less hashes in the file than in the table?**</br>
+
+The table has two copies of wallet with one hash.</br>
+Perhaps this is an earlier and later version of one wallet.</br>
+Perhaps two different wallets have the same password.<hr>
+
