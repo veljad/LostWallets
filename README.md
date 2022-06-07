@@ -5,7 +5,7 @@
 ## How to search for a password
 Download the latest version of hashcat [**here**](https://github.com/hashcat/hashcat/releases)</br>
 An example of using masks in hashcat is [**here**](https://cheatsheet.haax.fr/passcracking-hashfiles/hashcat_cheatsheet/)</br>
-The hashes of the passwords from all wallets is in the file [hash.txt](https://github.com/phrutis/LostWallets/blob/main/hash.txt) Update 07.06.2022</br>
+The hashes of the passwords from all wallets is in the file [**hash.txt**](https://github.com/phrutis/LostWallets/blob/main/hash.txt) Update 07.06.2022</br>
 Look for the password from all wallets at once, so you will be more likely to find</br>
 
 ## Example of starting a search
@@ -14,6 +14,7 @@ Examples:</br>
 Run: ```hashcat.exe -m 11300 -a 3 hash.txt ?a?a?a?a?a?a?a?a -D 2 -w 3 -o FOUND.txt```</br>
 Run: ```hashcat.exe -m 11300 -a 7 --increment hash.txt -1 ?l?d ?l?l?l?l?1?1?1?1 prefix.txt -D 2 -w 3 -o FOUND.txt```</br>
 Run: ```hashcat.exe -m 11300 -a 1 hash.txt WORDLIST.txt WORDLIST2.txt -D 2 -w 3 -S -o FOUND.txt```</br>
+Run: ```hashcat.exe -m 11300 -a 3 --increment --increment-min=6 --increment-max=12 hash.txt ?a?a?a?a?a?a?a?a?a?a?a?a -D 2 -w 3 -o FOUND.txt```
 Use your password search prefixes by mask or [dictionaries](https://www.weakpass.com/wordlist)</br>
 
 If you manage to find the passwoed, write to me in telegram ```phrutis```</br>
