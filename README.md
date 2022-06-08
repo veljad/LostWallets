@@ -17,7 +17,7 @@ Run: ```hashcat.exe -m 11300 -a 1 hash.txt WORDLIST.txt WORDLIST2.txt -D 2 -w 3 
 Run: ```hashcat.exe -m 11300 -a 3 --increment --increment-min=6 --increment-max=12 hash.txt ?a?a?a?a?a?a?a?a?a?a?a?a -D 2 -w 3 -o FOUND.txt```</br>
 Use your password search prefixes by mask or [dictionaries](https://www.weakpass.com/wordlist)</br>
 
-If you manage to find the passwoed, write to me in telegram ```phrutis```</br>
+If you manage to find the password, write to me in telegram ```phrutis```</br>
 Do not write me questions, look for answers on the [forum](https://hashcat.net/forum/)</br>
 
 - [**Fake Wallets**](https://github.com/phrutis/LostWallets/tree/main/fake-wallets)</br>
