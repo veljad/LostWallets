@@ -5,7 +5,7 @@
 ## How to search for a password
 Download the latest version of hashcat [**here**](https://github.com/hashcat/hashcat/releases)</br>
 An example of using masks in hashcat is [**here**](https://cheatsheet.haax.fr/passcracking-hashfiles/hashcat_cheatsheet/)</br>
-The hashes of the passwords from all wallets is in the file [**hash.txt**](https://github.com/phrutis/LostWallets/blob/main/hash.txt) Update 07.06.2022</br>
+The hashes of the passwords from all wallets is in the file [**hash.txt**](https://github.com/phrutis/LostWallets/blob/main/hash.txt) Update 08.06.2022</br>
 Look for the password from all wallets at once, so you will be more likely to find</br>
 
 ## Example of starting a search
@@ -59,7 +59,7 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 26 | wallet_50-2.dat |50.00011641  | [1MtXD6gGHZB1cAcP1Du29Ho9KobMCYD7ZC](https://www.blockchain.com/btc/address/1MtXD6gGHZB1cAcP1Du29Ho9KobMCYD7ZC) | 50% | :lock: | 3 | 05.06.2022 |
 | 27 | m24.dat | ~450 | multiple addresses | 50% | :lock: | 1 | 06.06.2022 |
 | 28 | wallet_42.24.dat | 42.53718329 | [1NKmf6GszBQ6wo349LUT4Je1csNyDDpb5Y](https://www.blockchain.com/btc/address/1NKmf6GszBQ6wo349LUT4Je1csNyDDpb5Y) | 50% | :lock: | 3 | 05.06.2022 |
-| 29 | new9wallet.dat | ? |  | 50% | :lock: | 1 | 06.00.2022 |
+| 29 | m1.4.dat | 1.44124101 | [1Lc6RJEB99cXMRBnkuTZqqojv6pRjikCkA](https://www.blockchain.com/btc/address/1Lc6RJEB99cXMRBnkuTZqqojv6pRjikCkA) | 50% | :lock: | 1 | 06.06.2022 |
 | 30 | wallet_50-4.dat | 50.00003282 | [1E4ad5bA8HgbqxsPYpmDtVRNBRF2XfqTns](https://www.blockchain.com/btc/address/1E4ad5bA8HgbqxsPYpmDtVRNBRF2XfqTns) | 50% | :lock: | 3 | 05.06.2022 |
 | 31 | wallet_0.072.dat | 0.07394004 | [12vdxXV3m5xRTi6vAAwMkQQkVL5rh9LESE](https://www.blockchain.com/btc/address/12vdxXV3m5xRTi6vAAwMkQQkVL5rh9LESE) | 50% | :lock: | 3 | 05.06.2022 |
 | 32 | new17wallet.dat | ? |  | 50% | :lock: | 3 | 00.00.2022 |
@@ -210,7 +210,7 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 177 | m104.dat | 104 | [15wx2WPf67P9AqrMUPzcePzzDFa7pJmhud](https://www.blockchain.com/btc/address/15wx2WPf67P9AqrMUPzcePzzDFa7pJmhud) + [1](https://www.blockchain.com/btc/address/1GtR4VXdRNMqnABAiAgGYnB4yQyWZ2ZTWk) | 50% | :lock: | 1 | 06.06.2022 |
 | 178 | m0.02.dat | 0.02994543 | [1JsUStZoy9aHqFkH3Gqpz4RQFCFqyhk5W7](https://www.blockchain.com/btc/address/1JsUStZoy9aHqFkH3Gqpz4RQFCFqyhk5W7) | 50% | :lock: | 1 | 06.06.2022 |
 | 179 | m6.dat | 6.00000000 | [1L1iJNKBubV4KbScgKTYS85gjvBmoDpzST](https://www.blockchain.com/btc/address/1L1iJNKBubV4KbScgKTYS85gjvBmoDpzST) | 50% | :lock: | 1 | 06.06.2022 |
-| 180 | m1.4.dat | 1.44124101 | [1Lc6RJEB99cXMRBnkuTZqqojv6pRjikCkA](https://www.blockchain.com/btc/address/1Lc6RJEB99cXMRBnkuTZqqojv6pRjikCkA) | 50% | :lock: | 1 | 06.06.2022 |
+
 
 
 
@@ -248,7 +248,7 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 26 | $bitcoin$64$25e8624d377949f36c4fdf104fa7f3ad3307be3499e72cae367f161b38a062d3$16$9d2eb2ad3e972053$37167$2$00$2$00 |
 | 27 | $bitcoin$64$2cc2bb488dc29fdfad85772b78bf96b29b054cd09a8a80311ebf6f7f821a8a63$16$c2ad95b0204070eb$67888$2$00$2$00 |
 | 28 | $bitcoin$64$b5ee3fb4fdb69a11efa972937e2fd0cf10c749b3d0967947205b4710f89fdbb3$16$00878c494362d4ab$35714$2$00$2$00 |
-| 29 | $bitcoin$64$27a7ab539edfe15b9fba66454066c7c68ebea4381a6ba6953d95d68e115aaf63$16$f45481b990eff771$54672$2$00$2$00 |
+| 29 | $bitcoin$64$af049ff75a8d5c1214e252f3c926b7b63e20f78f07fd411ca04140f272e557ae$16$999bf4729b971c7e$67169$2$00$2$00 |
 | 30 | $bitcoin$64$9f4ec3cc5df40ab2f7f961023c9bf4fcf410a9c46116cba0212f3095c1b9caaa$16$702f6ebf489b7aeb$72580$2$00$2$00 |
 | 31 | $bitcoin$64$617c4b22fabd578e0f4d030245a0cbebd9da426fbee49c2feb885fa190b65096$16$dff2b89e4d885c28$35714$2$00$2$00 |
 | 32 | $bitcoin$64$75f6cc8fef63be469e887450e7396927dc5e1808bf5cf5d45f4a2cd035bf5dd4$16$954d0b14f9ca0012$158653$2$00$2$00 |
@@ -399,9 +399,6 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 177 | $bitcoin$64$6fe4843548d07f8aae5dafd4637d492243f60306028d5c7bc5ac56a2f57ccb54$16$99ac4b568568fb99$69345$2$00$2$00 |
 | 178 | $bitcoin$64$a5e6b2b8df29c92ea2eadbd8933517a8c6cbc4f1718f5cf663a994e149948c93$16$50214f4cacd91f84$68432$2$00$2$00 |
 | 179 | $bitcoin$64$cbd7fe1739ba5dbf965fa015bc4cb089649a56a9a0002b74ac0c1076bf81de40$16$2090fd216ae96fee$61090$2$00$2$00 |
-| 180 | $bitcoin$64$af049ff75a8d5c1214e252f3c926b7b63e20f78f07fd411ca04140f272e557ae$16$999bf4729b971c7e$67169$2$00$2$00 |
-
-
 
 
 ## Frequently asked Questions
