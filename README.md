@@ -14,7 +14,7 @@ Examples:</br>
 Run: ```hashcat.exe -m 11300 -a 3 hash.txt ?a?a?a?a?a?a?a?a -D 2 -w 3 -o FOUND.txt```</br>
 Run: ```hashcat.exe -m 11300 -a 7 --increment hash.txt -1 ?l?d ?l?l?l?l?1?1?1?1 prefix.txt -D 2 -w 3 -o FOUND.txt```</br>
 Run: ```hashcat.exe -m 11300 -a 1 hash.txt WORDLIST.txt WORDLIST2.txt -D 2 -w 3 -S -o FOUND.txt```</br>
-Run: ```hashcat.exe -m 11300 -a 3 --increment --increment-min=6 --increment-max=12 hash.txt ?a?a?a?a?a?a?a?a?a?a?a?a -D 2 -w 3 -o FOUND.txt```
+Run: ```hashcat.exe -m 11300 -a 3 --increment --increment-min=6 --increment-max=12 hash.txt ?a?a?a?a?a?a?a?a?a?a?a?a -D 2 -w 3 -o FOUND.txt```</br>
 Use your password search prefixes by mask or [dictionaries](https://www.weakpass.com/wordlist)</br>
 
 If you manage to find the passwoed, write to me in telegram ```phrutis```</br>
