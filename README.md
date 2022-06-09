@@ -442,17 +442,19 @@ An example of a screenshot of entering a password</br>
 ![pass](https://user-images.githubusercontent.com/82582647/171959020-8192f5ad-6d3c-4295-af77-8fe348769853.png)
 <hr>
 
-**I have a wallet.dat I would like to exchange with you.**</br>
-
-Exchange according to the logic of the challenge is not possible.</br>
-Perhaps you have found the password and want to get the wallet.dat you need to collect the full amount.<hr>
-
 **I have an old wallet.dat (not from a table) want 25%**</br>
 
 You can contact me in telegram ```phrutis```</br>
 Provide me with the old wallet.dat</br>
 After verification, it will be added to the table with your btc address.</br>
 If hunters find password you will get 25%<hr>
+
+**I want to exchange my wallet.dat for yours. How to do it?**</br>
+
+If you have wallet.dat which is not in the table and you want to exchange it.</br>
+You need to contact me in telegram ```phrutis```</br>
+Send me an address or a hash, I will check it against the database of dubious wallet.dat</br>
+Specify the wallet.dat number in the table that you need.<hr>
 
 **I have a wallet.dat with the same hex, there is a different amount, it's empty, it's a fake?**</br>
 
