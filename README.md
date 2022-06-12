@@ -447,13 +447,6 @@ Provide me with the old wallet.dat</br>
 After verification, it will be added to the table with your btc address.</br>
 If hunters find password you will get 25%<hr>
 
-**I want to exchange my wallet.dat for yours. How to do it?**</br>
-
-If you have wallet.dat which is not in the table and you want to exchange it.</br>
-You need to contact me in telegram ```phrutis```</br>
-Send me an address or a hash, I will check it against the database of dubious wallet.dat</br>
-Specify the wallet.dat number in the table that you need.<hr>
-
 **I have a wallet.dat with the same hex, there is a different amount, it's empty, it's a fake?**</br>
 
 You may have an older version of wallet.dat</br>
@@ -462,29 +455,8 @@ In a later version, the user could add a new address and receive coins on it.</b
 The old version of wallet.dat does not have this address.</br>
 Or vice versa.<hr>
 
-**Why does the number of hashes in a file change?**</br>
-
-New hashes may be added to the hash.txt file.</br>
-Or not relevant, doubtful ones will be deleted.</br>
-Therefore, update this file at home more often.<hr>
 
 **Sell me all your wallets**</br>
 
 I don't sell or buy wallet.dat</br>
 And I do not advise you to buy.<hr>
-
-**Why is it taking so long to update the table?**</br>
-
-Indexing each wallet requires 5 to 8 hours.</br>
-It also takes a lot of time to check the jack.<hr>
-
-**I have password hints, why don't you use them?**</br>
-
-You are looking for more than 150 wallets in the list at once.</br>
-Hints are irrelevant here.<hr>
-
-**Why is there less hashes in the file than in the table?**</br>
-
-The table has two copies of wallet with one hash.</br>
-Perhaps this is an earlier and later version of one wallet.</br>
-Perhaps two different wallets have the same password.<hr>
