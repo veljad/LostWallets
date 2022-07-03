@@ -63,7 +63,6 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 29 | 77.98600547.dat | [14tZU9KyHXwkGXkVUKehkMfaEZ8ad7jwNc](https://www.blockchain.com/btc/address/14tZU9KyHXwkGXkVUKehkMfaEZ8ad7jwNc) | 50% | :lock: | 1 | 09.06.2022 |
 | 30 | 74.16883731.dat | [1F11GQNQKTEme6L74c5dVTTMkD7ME2jiqP](https://www.blockchain.com/btc/address/1F11GQNQKTEme6L74c5dVTTMkD7ME2jiqP) | 50% | :lock: | 1 | 09.06.2022 |
 | 31 | 73.50781094.dat | [18EGA8nGHjA998Qc17je6K8T6UUDHxeoCH](https://www.blockchain.com/btc/address/18EGA8nGHjA998Qc17je6K8T6UUDHxeoCH) | 50% | :lock: | 1 | 09.06.2022 |
-| 32 | 70.01000000.dat | [17w8w8ZHdqkSYFkhAMfHJaEqCHgHm9egKv](https://www.blockchain.com/btc/address/17w8w8ZHdqkSYFkhAMfHJaEqCHgHm9egKv) | 50% | :lock: | 1 | 09.06.2022 |
 | 33 | 52.55001760.dat | [13KKv3ywwJ5WYovLgiCAaqpCVuMDEF6oxo](https://www.blockchain.com/btc/address/13KKv3ywwJ5WYovLgiCAaqpCVuMDEF6oxo) | 50% | :lock: | 1 | 09.06.2022 |
 | 34 | 52.08001094.dat | [15Ybt9WjCF5ABAZ1GjFVTjzV3dJH5f9USh](https://www.blockchain.com/btc/address/15Ybt9WjCF5ABAZ1GjFVTjzV3dJH5f9USh) | 50% | :lock: | 1 | 09.06.2022 |
 | 35 | 50.43201094.dat | [1QFDAGXRkhNYfx2mHEu81QH8dAj4go4A8d](https://www.blockchain.com/btc/address/1QFDAGXRkhNYfx2mHEu81QH8dAj4go4A8d) | 50% | :lock: | 1 | 09.06.2022 |
@@ -255,7 +254,6 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 29 | 77.98600547.dat | $bitcoin$64$528c67300053686ddcc5bde2ab6cd7dfa451a56e9c08aa27dcf1cc276cb3df48$16$8be30851d53f2928$40948$2$00$2$00 |
 | 30 | 74.16883731.dat | $bitcoin$64$f8e443e6d6491d625a2ea48ddacffe0d1312ee59d80849d7f8cdb94d09931e84$16$7036c30511f8672b$36571$2$00$2$00 |
 | 31 | 73.50781094.dat | $bitcoin$64$eb22cf4ac8e7c5231096f7ce560803116345ba6cb0104f1488803e57f1d18e5c$16$8c0643774dcd2e5a$68452$2$00$2$00 |
-| 32 | 70.01000000.dat | $bitcoin$64$6b45588e745d8490f2432c68533407e0f2040ff12debd840270f47543ad47c16$16$0af493ab2796f208$99974$2$00$2$00 |
 | 33 | 52.55001760.dat | $bitcoin$64$a0af3fa5006030e0edce5bf0931bebe7e0b27a694d314a68790d21347d79a657$16$2142112a50c1e140$73529$2$00$2$00 |
 | 34 | 52.08001094.dat | $bitcoin$64$b1ed5af135a124b3041d79bb43074ae1054d3476693194d55d59c70252df19d6$16$aea459993c7600fe$38193$2$00$2$00 |
 | 35 | 50.43201094.dat | $bitcoin$64$b4ec55497c544b4e6a7435fb6f30205c2baf86c9f533da2bbfa1e6f9fabdf330$16$3795a68bc27c5915$35537$2$00$2$00 |
