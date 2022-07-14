@@ -437,7 +437,7 @@ Partner address 25% (btc address from table)</br>
 My address is 25% bc1qh2mvnf5fujg93mwl8pe688yucaw9sflmwsukz9</br>
 
 A password will be required to confirm the transfer.</br>
-I give you the id of a teamviewer (Windows remote desktop) running bitcoin core.</br>
+I give you the id of a [**Anydesk**](https://anydesk.com) (Windows remote desktop) running bitcoin core.</br>
 You connect, you see the active bitcoin core what and where it is sent. </br>
 Check your address, enter your password and click send transfer.</br>
 So there will be a guarantee and security for all participants.</br>
