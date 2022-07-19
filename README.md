@@ -29,6 +29,7 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 :four: - bc1q5k000jhfklq8k82lpf8fz9cwffj4murvt7kxpm</br>
 :five: - bc1qgdgr02whvzkzqcqhpstqepq8sjcc4ljgyfnka9</br>
 :six: - 13npiGYMZVqYiRJ9Xr2vTu8NAmzCQ1iCGv
+:seven: - 1BGYYSyPbs4YFDDudAVAULpNdkJQbYQpaS
 
 :warning: - Suspicious (there are duplicate hashes)
 
@@ -217,6 +218,7 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 185 | 75.00011094.dat | [1Afh86YLq9tZWGsQhmDvCoGE2QhwYXxmcY](https://www.blockchain.com/btc/address/1Afh86YLq9tZWGsQhmDvCoGE2QhwYXxmcY) + [25](https://www.blockchain.com/btc/address/12BycRrxPivnhnwfD5qfKaE7ccAc1qhrCb) | 50% | :lock: | 6 | 24.06.2022 |
 | 186 | 169.00013592.dat | [1GthMXgwcHByL4ZNXVJn92ax6LN5RJYRK3](https://www.blockchain.com/btc/address/1GthMXgwcHByL4ZNXVJn92ax6LN5RJYRK3) | 50% | :lock: | 6 | 24.06.2022 |
 | 187 | 575.99105683.dat | [1HZNsUqQxKVLmfPfCAzLwrnVDzx8CxwxnM](https://www.blockchain.com/btc/address/1HZNsUqQxKVLmfPfCAzLwrnVDzx8CxwxnM) | 50% | :lock: | 6 | 24.06.2022 |
+| 188 | 150.36000000.dat | [1....](https://www.blockchain.com/btc/address/1.....) | 50% | :lock: | 7 | 19.07.2022 |
 
 ## Heshes table
 
@@ -404,7 +406,9 @@ Do not write me questions, look for answers on the [forum](https://hashcat.net/f
 | 184 | 64.30251094.dat | $bitcoin$64$06e42d72b2041f3c2ced0e5df4c62dfdd7a48f1d051248644921ce07adf0ce38$16$c18779136cb6be7b$121383$2$00$2$00 |
 | 185 | 75.00011094.dat | $bitcoin$64$c35f2dc2039ced49e0b86661b5f6edbf0326262396f4a75baea7ed02d512a055$16$7bccc0618f4c2555$140625$2$00$2$00 |
 | 186 | 169.00013592.dat | $bitcoin$64$6def08e28ce898d4c3485b1f595db90ed4e7a3bb496e72aeef2e654a5e56ba29$16$5d633940dc72847f$137526$2$00$2$00 |
-| 186 | 575.99105683.dat | $bitcoin$64$89d3de7eb1e55de63f878164eae3610af59f03d6a064a5038b25c24529c6b0c3$16$a85d838b07c50cd0$122023$2$00$2$00 |
+| 187 | 575.99105683.dat | $bitcoin$64$89d3de7eb1e55de63f878164eae3610af59f03d6a064a5038b25c24529c6b0c3$16$a85d838b07c50cd0$122023$2$00$2$00 |
+| 188 | 150.36000000.dat | $bitcoin$64$6b45588e745d8490f2432c68533407e0f2040ff12debd840270f47543ad47c16$16$0af493ab2796f208$99974$202$54686973206973206120666f726765642077616c6c65742c206d61646520627920687474703a2f2f78696e6766656e672e6f72672c20746f206164766973652070656f706c65206e6f7420746f2062757920616e20756e6b6e6f776e2077616c6c65742e00$130$0496b538e853519c726a2c91e61ec11600ae1390813a627c66fb8be7947be63c52da7589379515d4e0a604f8141781e62294721166bf621e73a82cbf2342c858ee |
+
 ## Frequently asked Questions
 **Are your wallets real?**</br>
 
